@@ -55,7 +55,7 @@
   "Base URL": "Базовий URL",
   "Status": "Статус",
   "Current default value: :value": "Поточне значення за умовчанням: :value",
-  "Locale": "Місцевий",
+  "Locale": "Мова",
   "Timezone": "Часовий пояс",
   "Custom application URL": "Користувацька URL-адреса програми",
   "Override the application URL when this site is active.": "Замінити URL-адресу програми, коли цей сайт активний.",
